@@ -1,0 +1,6 @@
+{
+  "name": "StudyEase",
+  "description": "Student Study Planner for managing academic subjects, syllabus topics, study sessions, deadlines, and tracking learning progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
