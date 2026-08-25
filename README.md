@@ -20,6 +20,7 @@ Features
 👤 Student Profile — Personalized workspace for each student
 
 Tech Stack
+
 React / Next.js
 Deployed on Vercel
 
