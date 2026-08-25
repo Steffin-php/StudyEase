@@ -7,10 +7,15 @@ With StudyEase, students can organize their subjects and syllabus topics, log st
 Key Features:
 
 🏠 Dashboard Overview — A snapshot of subjects, mastered topics, study hours logged, pending tasks, and syllabus completion percentage
+
 📚 Subject Tracking — Organize and monitor progress across all your subjects and topics
+
 📅 Study Planner — Plan and schedule daily/weekly study sessions tailored to your goals
+
 ✅ Task Management — Add, track, and complete tasks and assignment deadlines with due dates
+
 📈 Progress Analytics — Visual tracking of syllabus completion and topic mastery over time
+
 👤 Student Profile — Personalized workspace for each student
 
 
