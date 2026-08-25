@@ -1,32 +1,35 @@
-StudyEase is an all-in-one student productivity platform designed to help learners plan, track, and improve their academic performance. Built for students juggling multiple subjects and deadlines, it brings together study planning, task management, and progress tracking into a single, easy-to-use dashboard.
+StudyEase
+
+StudyEase is a student productivity platform designed to help learners plan their study schedule, track syllabus progress, and manage tasks and deadlines — all from a single, easy-to-use dashboard.
 
 Live Website: https://study-ease-rc4f.vercel.app/ 
 
-With StudyEase, students can organize their subjects and syllabus topics, log study hours against personal targets, schedule study sessions with a built-in planner, and stay on top of assignments and deadlines — all while visualizing their overall syllabus completion and mastery progress in real time. Whether you're preparing for exams, managing coursework across semesters, or just trying to build consistent study habits, StudyEase gives you the tools to stay organized and motivated.
+Features
+🏠 Dashboard Overview — A snapshot of subjects, mastered topics, study hours logged, pending tasks, and syllabus completion percentage 
 
-Key Features:
+📖 Subject Tracking — Organize and monitor progress across all your subjects and syllabus topics
 
-🏠 Dashboard Overview — A snapshot of subjects, mastered topics, study hours logged, pending tasks, and syllabus completion percentage
-
-📚 Subject Tracking — Organize and monitor progress across all your subjects and topics
-
-📅 Study Planner — Plan and schedule daily/weekly study sessions tailored to your goals
+📅 Study Planner — Plan and schedule study sessions with a dedicated planner view
 
 ✅ Task Management — Add, track, and complete tasks and assignment deadlines with due dates
 
 📈 Progress Analytics — Visual tracking of syllabus completion and topic mastery over time
 
+⏰ Upcoming Deadlines — Stay on top of tasks and assignments due soon
 
+👤 Student Profile — Personalized workspace for each student
 
+Dashboard at a Glance
+Subjects — Total subjects and topics tracked
+Mastered — Topics mastered out of total syllabus topics
+Study Logged — Total study hours logged against a target
+Today's Tasks — Tasks due today
+Completed — Completed vs pending task count
+Syllabus — Overall syllabus completion percentage
 
-
-
-
-
-
-
-
-
+Tech Stack
+React / Next.js
+Deployed on Vercel
 
 
 
