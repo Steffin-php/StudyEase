@@ -16,8 +16,6 @@ Key Features:
 
 📈 Progress Analytics — Visual tracking of syllabus completion and topic mastery over time
 
-👤 Student Profile — Personalized workspace for each student
-
 
 
 
